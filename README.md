@@ -1,1 +1,1 @@
-# Parser_mospoly
+# First parser for news in mospolytech.ru 
